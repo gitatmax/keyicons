@@ -1,9 +1,7 @@
 # Keyicons
 
-A collection of icons geared for using in physical devices
+Keyicons is an icon pack geared for devices that control other devices. It’s customizable & 100% free.
 
-## Quick Links
-
-- [Preview the Set (In-Browser on Figma)](https://www.figma.com/file/nomxW7uYajZToe0IddZlFX/Keyicons?node-id=0%3A1)
-- [Get the Icons for Free!](https://github.com/gitatmax/keyicons/releases)
+- [Preview the Set (In-Browser on Figma)](https://www.figma.com/file/nomxW7uYajZToe0IddZlFX/?node-id=0%3A1)
+- [Download the Icons](https://github.com/gitatmax/keyicons/releases)
 - [Support the Developer](https://github.com/sponsors/gitatmax)
