@@ -1,6 +1,6 @@
 # Keyicons
 
-Keyicons is an icon pack geared for physical devices. It's customizable & 💯 free!
+Keyicons is an icon pack geared for physical devices. 💯 customizable & free!
 
 - [Preview the Set (In-Browser on Figma)](https://www.figma.com/file/nomxW7uYajZToe0IddZlFX/?node-id=0%3A1)
 - [Download the Icons](https://github.com/gitatmax/keyicons/releases)
